@@ -75,7 +75,7 @@ Based on the results of the insights obtained, visualization will be carried out
 **For the detail kindly to check notebook :)**
 
 
-## 2. Data Analysis
+## Stage 2. Data Analysis
 
 ### 1. Monthly Hotel Booking Analysis Based on Hotel Type
 <p align="center">
