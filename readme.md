@@ -92,8 +92,8 @@ Source [Article](https://www.littlehotelier.com/blog/running-your-property/diffe
 <br>
 
 <p align="center">
-    <kbd> <img width="1500" alt="hotel type" src="https://github.com/fauzanheryka/Project-Portofolio/assets/141212116/c702fc40-33ca-4bbf-8a8c-39b48475cf51"
-">
+    <kbd> <img width="1000" alt="hotel type" src="https://github.com/fauzanheryka/Project-Portofolio/assets/141212116/c702fc40-33ca-4bbf-8a8c-39b48475cf51"
+>
  </kbd> <br>
     Figure 2 — City Hotel and Resort Hotel Booking Numbers by Month
 </p>
@@ -107,7 +107,7 @@ Source [Article](https://www.littlehotelier.com/blog/running-your-property/diffe
 
 ### 2. Impact Analysis of Stay Duration on Hotel Bookings Cancellation Rates
 <p align="center">
-    <kbd> <img width="600" alt="cancel rate hotel type" src="https://github.com/fauzanheryka/Project-Portofolio/assets/141212116/eed73dd9-7e02-4e61-80d6-5fa230826578"></kbd> <br>
+    <kbd> <img width="800" alt="cancel rate hotel type" src="https://github.com/fauzanheryka/Project-Portofolio/assets/141212116/eed73dd9-7e02-4e61-80d6-5fa230826578"></kbd> <br>
     Figure 3: Cancellation Percentage Graph for Hotel Type
 </p>
 
@@ -129,7 +129,7 @@ The two hotels have differing cancellation rates: the resort hotel has a rate of
 
 ### 3. Impact Analysis of Lead Time on Hotel Bookings Cancellation Rates
 <p align="center">
-    <kbd><img width="1500" alt="tren lead" src="https://github.com/fauzanheryka/Project-Portofolio/assets/141212116/4cce729f-d1d6-427a-ae5a-44e1d1c72c23"></kbd> <br>
+    <kbd><img width="1000" alt="tren lead" src="https://github.com/fauzanheryka/Project-Portofolio/assets/141212116/4cce729f-d1d6-427a-ae5a-44e1d1c72c23"></kbd> <br>
     Figure 5 — Hotel Booking Cancellation Trends Based on Lead Time
 </p>
 
